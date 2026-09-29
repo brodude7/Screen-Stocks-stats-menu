@@ -10,4 +10,9 @@ put it anywhere you want on the game screen\
 
 # other
 work in progress\
-if you find any bugs pls let me know via discord DM. thx
+if you find any bugs pls let me know via discord DM. thx\
+
+
+
+
+https://youtu.be/-YUsdD3nlbU
