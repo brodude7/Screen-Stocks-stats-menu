@@ -11,8 +11,7 @@ put it anywhere you want on the game screen\
 # other
 work in progress\
 if you find any bugs pls let me know via discord DM. thx\
-
-
-
-
-https://youtu.be/-YUsdD3nlbU
+\
+tutorial for bepinex\
+<https://youtu.be/-YUsdD3nlbU>\
+you must do this before you can use my plugin
