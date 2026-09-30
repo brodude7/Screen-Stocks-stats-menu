@@ -7,6 +7,7 @@ how much you've made in that session\
 live stock charts with real time pricing and your gain or loss and what you bought it for\
 customizablety, follow the games theme or make you own in the settings\
 put it anywhere you want on the game screen\
+a bot that is still work in progress(but works like auto actions for now) if you wish to use the bot pls contact me via discord
 
 # other
 work in progress\
